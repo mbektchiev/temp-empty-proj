@@ -4,7 +4,8 @@
   "readme": "NativeScript Application",
   "repository": "<fill-your-repository-here>",
   "nativescript": {
-    "id": "com.telerik.incremental"
+    "id": "com.telerik.incremental",
+    "tns-ios": {"version": "3.0.1"}
   },
   "dependencies": {
     "nativescript-theme-core": "~1.0.2",
