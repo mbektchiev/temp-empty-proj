@@ -1,0 +1,8 @@
+{
+  "name": "tns-template-hello-world",
+  "main": "app.js",
+  "version": "3.0.0",
+  "android": {
+    "v8Flags": "--expose_gc"
+  }
+}
